@@ -12,3 +12,5 @@ let myHeavyValue = MyHeavyClass()
 myHeavyValue.myMethod()
 myBenchMark.finish()
 ```
+
+http://qiita.com/tady/items/40d7c4feecda337cf271
